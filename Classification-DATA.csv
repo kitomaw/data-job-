@@ -1,0 +1,14 @@
+0,0,0,False,NOT-PLAY
+0,0,0,True,NOT-PLAY
+1,0,0,False,PLAY
+3,1,0,False,PLAY
+3,2,1,False,PLAY
+3,2,1,True,NOT-PLAY
+1,2,1,True,PLAY
+0,1,0,False,NOT-PLAY
+0,1,1,False,PLAY
+3,1,1,False,PLAY
+0,1,1,True,PLAY
+1,1,0,True,PLAY
+1,0,1,False,PLAY
+3,1,0,True,NOT-PLAY
